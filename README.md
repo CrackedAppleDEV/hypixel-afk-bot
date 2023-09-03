@@ -18,7 +18,7 @@ This program will will connect to [Hypixel](https://hypixel.net) and afk on a Sk
 First, open a terminal/command line in the folder you would like to host your bot.
 Once you are there, run:
 
-    git clone https://github.com/SergeantSar/hypixel-afk-bot.git
+    git clone https://github.com/CrackedAppleDEV/hypixel-afk-bot.git
 
 Next go into the `hypixel-afk-bot` folder and install all the dependencies by running:
 
